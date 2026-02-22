@@ -20,7 +20,7 @@ Currently, I’m focused on **Full Stack Web Development** using the **MERN Stac
 
 **Frontend**
 - HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap, Tailwind CSS
+- Bootstrap, Tailwind CSS, Framer-motion
 - React.js
 
 **Backend**
